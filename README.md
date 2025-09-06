@@ -3,7 +3,7 @@ Project Summary: The Evolution of Vibrant Snake
 
 This document outlines the development lifecycle of "Vibrant Snake," a modern reimagining of the classic arcade game, built collaboratively in Python with the Pygame library. The project evolved from a detailed technical prompt into a feature-rich, polished game ready for distribution.
 
-![image alt]([image_url](https://github.com/Fahism/Vibrant-Snake/blob/main/project.png.png?raw=true))
+![image alt](https://github.com/Fahism/Vibrant-Snake/blob/main/project%20snake.png?raw=true)
 
 1. The Initial Vision: The Prompt
 
